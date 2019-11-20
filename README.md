@@ -3,7 +3,7 @@
 
 # App requirements
 The application should use the following features/components:
-  - Redux should be used for the app architecture (use the libraries [Redux](https://pub.dartlang.org/packages/redux) and [flutter_redux](https://pub.dartlang.org/packages/flutter_redux))
+  - BLoC should be used for the app architecture (use the libraries [BLoC](https://bloclibrary.dev/#/) and [bloc](https://pub.dev/packages/bloc))
   - The app should have a splash screen with a cat image (free to use any), and should be correctly implemented on both platforms (ios and android)
   - After the splash, if the user was not logged in previously, you have to display a login screen with 2 options: Facebook, Google.
   - After successful login on the home screen, the user will see 3 tabs: Cats, Favorites, Profile. 
