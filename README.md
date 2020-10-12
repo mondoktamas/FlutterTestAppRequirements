@@ -12,6 +12,6 @@ If the item is already added to favourites the icon should indicate it (somethin
   - The app should remember the logged in user, so after a successful login, if the user closes the app and reopen it again, the app should navigate to the home page.
   - The app should work completaly in offline mode(no internet connection), it means: 
   If the app opened for the first time in offline mode the first tab should be blank with text in the center which "No internet connection". 
-  If the app opened for the first time in online mode, you have to cache the items on the first tab, and when you open the app second time in offline mode you should do the API request and if that fails, then show the previously cached resoults.
+  If the app opened for the first time in online mode, you have to cache the items on the first tab, and when you open the app second time in offline mode you should do the API request and if that fails, then show the previously cached results.
 The profile info should be cached as well.
   - Make sure the app looks the same on both ios/android platforms.
