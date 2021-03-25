@@ -16,5 +16,7 @@ If the item is already added to favourites the icon should indicate it (somethin
 The profile info should be cached as well.
   - Make sure the app looks the same on both ios/android platforms.
 
+**The app will not be reviewed if any of the above requirements are missing.**
+
 # !!!IMPORTANT!!!
 Please add your debug kesytore file to the project and make the gradle to use that for debug builds, so i'll be able to test your app properly. This is really important, because otherwise i'll not be able to login to the app.
