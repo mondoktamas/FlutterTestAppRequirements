@@ -15,3 +15,6 @@ If the item is already added to favourites the icon should indicate it (somethin
   If the app opened for the first time in online mode, you have to cache the items on the first tab, and when you open the app second time in offline mode you should do the API request and if that fails, then show the previously cached results.
 The profile info should be cached as well.
   - Make sure the app looks the same on both ios/android platforms.
+
+# !!!IMPORTANT!!!
+Please add your debug kesytore file to the project and make the gradle to use that for debug builds, so i'll be able to test your app properly. This is really important, because otherwise i'll not be able to login to the app.
