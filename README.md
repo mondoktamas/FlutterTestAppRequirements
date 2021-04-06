@@ -19,4 +19,4 @@ The profile info should be cached as well.
 **The app will not be reviewed if any of the above requirements are missing.**
 
 # !!!IMPORTANT!!!
-Please add your debug kesytore file to the project and make the gradle to use that for debug builds, so i'll be able to test your app properly. This is really important, because otherwise i'll not be able to login to the app.
+Please add your android debug kesytore file to the project and make the gradle to use that for debug android builds, so i'll be able to test your app properly. This is really important, because otherwise i'll not be able to login to the app.
